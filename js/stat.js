@@ -1,3 +1,5 @@
+/* eslint-disable no-redeclare */
+/* eslint-disable radix */
 'use strict';
 
 (function () {
